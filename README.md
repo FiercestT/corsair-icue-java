@@ -1,2 +1,2 @@
 # corsair-icue-java
-Deprecated use new repo in readme.
+Deprecated, please use [New Repo](https://github.com/FiercestT/corsair-cue-java).
